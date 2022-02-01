@@ -6,9 +6,10 @@ As a tester and developer, it was requested that we first add the weather descri
 
 Deliverable 1 : Retrieved the necessary information with an API call from OpenWeatherMap and added that data to a new dataframe. 
 
-Deliverable 2 : Filtered that data for preferred temperatures, and added hotel information into the csv; then used a Google Maps API to generate a marker layer map for the itinerary.   
-
-Deliverable 3 : Refactored code and chose 4 cities to isolate for a map with directions. Used Google Directions API to generate that map for the client. 
+Deliverable 2 : Filtered that data for preferred temperatures, and added hotel information into the csv; then used a Google Maps API to generate a Customer Travel Desinations Map for the itinerary.   
+!(https://github.com/JV348/World_Weather_Analysis/blob/d97fcdf498ca2497d7dd7bb64e15216f0a642ba9/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+Deliverable 3 : Refactored code and chose 4 cities to isolate for a map with directions. Used Google Directions API to generate a Travel Itinerary Map for the client. 
+!(https://github.com/JV348/World_Weather_Analysis/blob/d97fcdf498ca2497d7dd7bb64e15216f0a642ba9/Vacation_Itinerary/WeatherPy_travel_map.png)
 
 ### Resources 
 - Data Source: WeatherPy_Vacation.csv
