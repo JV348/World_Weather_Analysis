@@ -9,14 +9,18 @@ Deliverable 1 : Retrieved the necessary information with an API call from OpenWe
 ![Vacation_DF](https://github.com/JV348/World_Weather_Analysis/blob/c73efe4c14ee64d9be8e8b87e74132907c583ce5/Vacation_Search/WeatherPy_Vacation.png)
 
 
+
 Deliverable 2 : Filtered that data for preferred temperatures, and added hotel information into the csv; then used a Google Maps API to generate a Customer Travel Desinations Map for the itinerary.   
+NOTE - This map was zoomed in on with Jupyter Notebooks (the original map has hotel locations on various continents). 
 
 ![Marker_Map](https://github.com/JV348/World_Weather_Analysis/blob/d97fcdf498ca2497d7dd7bb64e15216f0a642ba9/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+
 
 
 Deliverable 3 : Refactored code and chose 4 cities to isolate for a map with directions. Used Google Directions API to generate a Travel Itinerary Map for the client. 
 
 ![Travel_Map](https://github.com/JV348/World_Weather_Analysis/blob/d97fcdf498ca2497d7dd7bb64e15216f0a642ba9/Vacation_Itinerary/WeatherPy_travel_map.png)
+
 
 
 ### Resources 
